@@ -1,39 +1,23 @@
-# Hey, I'm Hamyoun 👋
-
-Full-stack developer at **[Swatitech](https://swatitech.com)** · Lahore, Pakistan
-
-Building AI-powered mobile and web apps — FastAPI backends, Next.js frontends, Flutter native clients.
+Backend engineer at [Swatitech](https://swatitech.com) · Lahore, Pakistan
 
 ---
 
-## 🛠 Stack
+I build APIs, auth systems, and data pipelines. Python is my primary tool.
 
-| Layer | Tech |
-|---|---|
-| **Backend** | FastAPI · SQLAlchemy · PostgreSQL · Alembic |
-| **Frontend** | Next.js · Tailwind CSS · TypeScript |
-| **Mobile** | Flutter · Dart |
-| **AI** | Google Gemini · Groq Llama · rembg |
-| **Auth** | JWT · RBAC · bcrypt |
-| **Infra** | Linux · Docker · GitHub Actions |
+Currently working on **Wardo** — an AI wardrobe app with clothing categorisation, background removal, and outfit generation. FastAPI backend with async SQLAlchemy, JWT + RBAC auth, Redis caching, and Gemini/Groq for vision inference.
 
----
+**Stack**
 
-## 🚀 Current Project
+```
+Languages   Python 3.12
+Frameworks  FastAPI, SQLAlchemy (async), Alembic, Pydantic v2
+Databases   PostgreSQL, Redis
+Auth        JWT, bcrypt, RBAC
+AI          Google Gemini, Groq Llama, rembg / BiRefNet
+Infra       Linux, Docker, GitHub Actions
+```
 
-### [Wardo](https://github.com/Hamyoun01/wardo) — AI Wardrobe App
-> Mobile-first PWA + Flutter native app for Gen Z wardrobe management
+**Contact**
 
-- Upload clothing photos → AI removes background + auto-categorizes
-- Rule-based + AI outfit generation
-- Full JWT auth with RBAC, session management, audit trail
-- Stack: FastAPI · Next.js · Flutter · Gemini 2.5 Flash · PostgreSQL
-
----
-
-## 📫 Contact
-
-- GitHub: [@Hamyoun01](https://github.com/Hamyoun01)
-- Company: [Swatitech](https://swatitech.com)
-
-<!-- website: TBD -->
+- GitHub — [@Hamyoun01](https://github.com/Hamyoun01)
+- Company — [Swatitech](https://swatitech.com)
